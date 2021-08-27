@@ -10,7 +10,7 @@ public class Circumference {
     return 2 * Math.PI * radius;
   }
 
-  private static double CircumferenceSphere(double r) {
-    return 2 * Math.PI * r;
+  private static double CircumferenceSphere(double radius) {
+    return 2 * Math.PI * radius;
   }
 }
